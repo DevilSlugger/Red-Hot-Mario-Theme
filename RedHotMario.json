@@ -3,6 +3,8 @@
         "version": "1.0.0",
         "name": "Hot Red Mario",
         "author": "jackpunpkin"
+        "updater": "https://raw.githubusercontent.com/DevilSlugger/Red-Hot-Mario-Theme/main/RedHotMario.json"
+        "license": "MIT"
     },
     "background": {
         "url": "https:\/\/cdn.discordapp.com\/attachments\/1172624188712960071\/1172964916009914445\/cfc661d1f88b22e8b63ecfe2033cc76e.jpg?ex=65623bb4&",
